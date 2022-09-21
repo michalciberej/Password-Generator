@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 52px;
+    background-color: #1F2937; 
+    
+}
+
+#header-el {
+    color: white;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 40px;
+    font-size: 40px;
+}
+
+#orange-header-el {
+    color: #F59E0B;
+    margin-bottom: 0;
+}
+
+#text-el {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #D5D4D8;
+    margin-top: -20px;
+    margin-bottom: 70px;
+    opacity: 80%;
+    display: flex;
+}
+
+#password-el {
+    background-color: #D97706;
+    border: none;
+    border-radius: 6px;
+    width: 220px;
+    height: 42px;
+    color: white;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+
+#underline-el {
+    display: block;
+    width: 450px;
+    border: 1px solid #2F3E53;
+    background-color: #2F3E53;
+    margin: 35px 0px;
+}
+
+.password-text {
+    background: #273549;
+    width: 210px;
+    height: 40px;
+    border-radius: 6px;
+    color: #F59E0B;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 500;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+     
+}
+
+#password-one {
+    margin-right: 15px;
+}
+
+#password-two {
+    margin-left: 15px;
+}
+
+.copied-text {
+    color: #D5D4D8;
+    text-align: center;
+    opacity: 80%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    
+}
+
+#copied-one {
+    margin-right: 120px;
+}
+
+#copied-two {
+    margin-left: 120px;
+}
